@@ -2,11 +2,20 @@
 
 * install python3 (>=  v3.9)
 
-* setup virtualenv: `python3 -m venv venv`
+* setup virtualenv: 
+```bash
+python3 -m venv venv
+```
 
-* activate virtualenv: `source venv/bin/activate`
+* activate virtualenv: 
+```bash
+source venv/bin/activate
+```
 
-* install requirements: `pip install -U pip && pip install -r requirements.txt`
+* install requirements: 
+```bash
+pip install -U pip && pip install -r requirements.txt
+```
 
 # adding items
 
@@ -14,7 +23,11 @@
 
 # compiling timeline
 
-* run (in virtualenv): `python render_timeline.py` (produces a `timeline.html` in project root)
+* run (in virtualenv):
+  ```bash
+     python render_timeline.py
+  ```
+  (produces a `timeline.html` in project root)
 
 * view `timeline.html` in your preferred browser
 
