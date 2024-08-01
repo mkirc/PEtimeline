@@ -1,0 +1,15 @@
+*.csv
+*.egg-info/
+dist/
+build*/
+**/__pycache__/
+venv/
+.venv/
+test-*/
+*.swp
+*.png
+*.png
+*.sh
+**.pdf
+**.PDF
+**.pem
