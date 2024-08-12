@@ -33,19 +33,21 @@ timelineItems = [
         Nachwuchs.</small>\"""",
     },
     {
-        "date"  : "2019",
+        "date"  : "Juli 2019",
         "title" : "Gutachten des Wissenschaftsrats",
-        "text"  : "",
+        "text"  : """Der Wissenschaftrat veröffentlicht sein
+        <a href='https://www.wissenschaftsrat.de/download/2019/7827-19.html'>
+        Gutachten</a> 'Empfehlungen zur Weiterentwicklung der Friedens- und Konflik­t­forschung (Drs. 7827-19)'""",
     },
     {
-        "date"  : "2019",
+        "date"  : "November 2019",
         "title" : "ZSL und OVM",
         "text"  : """Statt Studienbeiträge von Studierenden aus
         Nicht-EU-Ländern zu erheben, wird die Landesregierung die sogenannten
         Qualitätsverbesserungsmittel (QVM) für die Hochschulen von bisher 249
         Millionen Euro auf 300 Millionen Euro jährlich erhöhen. Ab 2021 sollen
         weiterhin im Zuge des Zukunftsvertrags (ZSL) Studium und Lehre durch
-        900 Millionen Euro für NRW gestärkt werden.""",
+        900 Millionen Euro für NRW gestärkt werden. <small><a href='https://www.jmwiarda.de/2019/11/27/mut-zur-vernunft/'>Quelle</a></small>""",
     },
     {
         "date"  : "",
