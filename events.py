@@ -219,7 +219,7 @@ timelineItems = [
     },
     {
         "date"  : "Sommersemester 2020",
-        "title" : "Physik & Ethik findet statt!! Jetzt erst recht!!! - Idee zu Umwelt- und Firedensphysik in Köln",
+        "title" : "Physik & Ethik findet statt!! Jetzt erst recht!!! - Idee zu Umwelt- und Friedensphysik in Köln",
         "text"  : """Alle sind in Corona verstrickt und verunmittelbart. Man kämpft für ein "Zurück zum Scheiß, den wir davor hatten". Angesichts dessen geht
         es im Seminar viel darum, die Verbindungen nicht abreißen zu lassen, eine Zwischenbilanz in Bezug auf KriWi zu ziehen und auch zu versuchen,
         zu entwickeln, was es heißt, das Wirken von Dietrich Stauffer fortzuführen.
