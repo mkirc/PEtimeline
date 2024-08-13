@@ -245,7 +245,9 @@ timelineItems = [
         spezifischen Ausrichtung des ZNF. Laut Gutachten des Wissenschaftsrates sind diese Bereiche aber in den letzten Jahrzehnten an fast allen
         europäischen Hochschulen aus verschiedenen Gründen abgebaut worden oder waren schon immer Nischen. (Tatsächlich wollte Freimuth (~2010?) auch die
         Kernphysik zu machen und hat damals als Deal angeboten, die Biophysik einzurichten. Dagegen hatte (u.a.) die Fachschaft damals erfolgreich
-        protestiert.)"""
+        protestiert.)
+        
+        Es entsteht Liste der bisherigen Themen: https://physik.uni-koeln.de/fileadmin/Downloads/Physik-und-Ethik/Sitzungen_bis_SS_20.pdf"""
     },
     {
         "date"  : "Sommer 2020",
