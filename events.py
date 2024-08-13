@@ -535,7 +535,7 @@ Wir konzipieren Seminar im Sommer 2023 mit der Idee, aus weiter fortgeschrittene
     {
         "date"  : "Sommersemester 2024",
         "title" : "Doppelveranstaltung zu Quanten-Hype",
-        "text"  : """Auf Grund der Altlandschen Exzellenz-Lehramts-Überlegungen sammeln wir unsere bisherigen Überlegungen zur Weiterentwicklung des Lehramtes, darunter auch das Zentrum für Kasuistik. Letzteres ist in der Diskussion mit Lehramts-Satelliten der Favorit.""",
+        "text"  : """""",
     },
     {
         "date"  : "Sommersemester 2024",
@@ -545,7 +545,7 @@ Wir konzipieren Seminar im Sommer 2023 mit der Idee, aus weiter fortgeschrittene
     {
         "date"  : "Sommersemester 2024",
         "title" : "Idee zu Zentrum für Kasuistik kommt neu auf",
-        "text"  : """""",
+        "text"  : """Auf Grund der Altlandschen Exzellenz-Lehramts-Überlegungen sammeln wir unsere bisherigen Überlegungen zur Weiterentwicklung des Lehramtes, darunter auch das Zentrum für Kasuistik. Letzteres ist in der Diskussion mit Lehramts-Satelliten der Favorit.""",
     },
 
 ]
