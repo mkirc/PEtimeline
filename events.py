@@ -181,7 +181,7 @@ timelineItems = [
     },
     {
         "date"  : "November 2019",
-        "title" : "ZSL und OVM",
+        "title" : "ZSL und QVM",
         "text"  : """Statt Studienbeiträge von Studierenden aus
         Nicht-EU-Ländern zu erheben, wird die Landesregierung die sogenannten
         Qualitätsverbesserungsmittel (QVM) für die Hochschulen von bisher 249
