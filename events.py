@@ -399,7 +399,7 @@ timelineItems = [
         immer wieder ausgeschoben. Es entstehen Vorräte von gut einem Jahr.""",
     },
     {
-        "date"  : "9. November! Wie kommst du auf 10. Oktober?",
+        "date"  : "9. November 2021",
         "title" : "Vollversammlung der FS Physik",
         "text"  : """Auf der Vollversammlung der FS Physik werden zuerst die
         Vorhaben zur Einrichtung eines 'Peace and Sustainability Studies
@@ -420,7 +420,7 @@ timelineItems = [
     {
         "date"  : "Sommersemester 2022",
         "title" : "Ringvorlesung: 'Pollution' // Voller Hörsaal III bei Antikriegsveranstaltung",
-        "text"  : """Spontan eingeschobene Startveranstaltung reichtet sich gegen Aufrüstung als Konsequenz aus russischem Angriff. Der Hörsaal ist bis zum letzten Platz belegt,
+        "text"  : """Spontan eingeschobene Startveranstaltung richtet sich gegen Aufrüstung als Konsequenz aus russischem Angriff. Der Hörsaal ist bis zum letzten Platz belegt,
         der Rest des Semesters eher durchschnittlich besucht.
         """,
     },
