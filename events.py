@@ -41,6 +41,11 @@ timelineItems = [
         "text"  : "<hr>",
     },
     {
+        "date"  : "Frühjahr 2017",
+        "title" : "Anti-Kernwaffen-Kampagne entsteht",
+        "text"  : """https://fs-physik.uni-koeln.de/mitgliederinitiative-nuklearwaffen/""",
+    },
+    {
         "date"  : "Sommeremester 2017",
         "title" : "Erster Durchlauf P&E",
         "text"  : """Thematisch ein Feuerwerk komplett ohne roten Faden. Man merkt, dass Menschen die ganze Zeit über sowas nachdenken, aber bisher keinen
@@ -417,6 +422,13 @@ timelineItems = [
         "title" : "Ringvorlesung: 'Pollution' // Voller Hörsaal III bei Antikriegsveranstaltung",
         "text"  : """Spontan eingeschobene Startveranstaltung reichtet sich gegen Aufrüstung als Konsequenz aus russischem Angriff. Der Hörsaal ist bis zum letzten Platz belegt,
         der Rest des Semesters eher durchschnittlich besucht.
+        """,
+    },
+    {
+        "date"  : "Sommersemester 2022",
+        "title" : "Wieder aufgreifen der Kernwaffenkampagne // Ausstellung in der Mensa",
+        "text"  : """Entscheidender Schritt zur Entspannung.
+        Wir holen zusammen mit AK Zivilklausel und Menschen aus der Kölner Friedensbewegung ICAN-Ausstellung in die Mensa und machen selbst Führungen.
         """,
     },
     {
