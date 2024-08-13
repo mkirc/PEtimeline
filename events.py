@@ -428,8 +428,8 @@ Wir konzipieren Seminar im Sommer 2023 mit der Idee, aus weiter fortgeschrittene
     },
     {
         "date"  : "Herbst 2022",
-        "title" : "ZUSL-Mittel werden endlich in der Physik verhandelt.",
-        "text"  : """Rosch pöbelt gegen alles außer MaPhy I im Sommer. Verlangt Pilotprojekt für Projektpraktikum und ausgearbeitetes Konzept für
+        "title" : "ZUSL-Mittel werden endlich in der Physik verhandelt. // Idee des Masterschwerpunktes Umwelt- und Friedensphysik wird entwickelt und eingebracht",
+        "text"  : """Rosch pöbelt gegen alles außer MaPhy I im Sommer. Verlangt Pilotprojekt für Projektpraktikum und ausgearbeitetes Konzept für Masterschwerpunkt zu
         Umwelt- und Friedensphysik. Wir gewinnen dafür Volker, Stephan, Astrid, Hendrik, Markus, Erik und Dennis.
         Es gibt von Astrid den Vorschlag, noch einmal an einer Drittmittel-Ausschreibung teilzunehmen. Erik und Markus finden das gut. Wegen Bedenken von
         Volker machen wir es aber dann doch irgendwie nicht.
