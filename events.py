@@ -524,8 +524,8 @@ Wir konzipieren Seminar im Sommer 2023 mit der Idee, aus weiter fortgeschrittene
         Zusammen ergibt das ein M-Praktikum
 
         Dringend zu diskutierende These von Markus: Es funktioniert, sobald man den Bruchstücken eine unpolitische Überschrift gibt, ohne zu verheimlichen,
-        dass man es auch politisch einsetzen kann und das auch interessant findet." Wenn es dann erstmal läuft, kann man immer noch tun,
-        was man eigentlich will.""",
+        dass man es auch politisch einsetzen kann und das auch interessant findet. Wenn es dann erstmal läuft, kann man immer noch tun,
+        was man eigentlich will." """,
     },
     {
         "date"  : "Sommersemester 2024",
