@@ -414,14 +414,14 @@ timelineItems = [
     },
     {
         "date"  : "Sommersemester 2022",
-        "title" : "Ringvorlesung: 'Pollution'",
-        "text"  : """Startveranstaltung reichtet sich gegen Aufrüstung als Konsequenz aus russischem Angriff. Der Hörsaal ist bis zum letzten Platz belegt,
+        "title" : "Ringvorlesung: 'Pollution' // Voller Hörsaal III bei Antikriegsveranstaltung",
+        "text"  : """Spontan eingeschobene Startveranstaltung reichtet sich gegen Aufrüstung als Konsequenz aus russischem Angriff. Der Hörsaal ist bis zum letzten Platz belegt,
         der Rest des Semesters eher durchschnittlich besucht.
         """,
     },
     {
         "date"  : "Sommer 2022 bis Ende 2022",
-        "title" : "Schwerpunnkt Quantentechnologie entsteht",
+        "title" : "Schwerpunkt Quantentechnologie entsteht",
         "text"  : """Mehrere Treffen mit Tommaso. Er findet Problem, dass es einen Hype gibt und niemand einen kritischen Blick hat. Er will noch David mit einbinden. Wissenschaft soll Technikfolgenbestimmung machen und müsse jetzt voraus denken. Er ist Teil eines UNESCO-Prozesses und es gibt bisher keinen Plan und keine Veröffentlichungen. Wir sollen Kern einer weltweiten Studi-Initiative werden.
 Alle sind am Rudern, wie man anfängt, Joachim und Volker finden Quanten nicht so interessant. Volker will Studis "was Ordentliches" bieten und kein gemeinsames "Rudern".
 Wir konzipieren Seminar im Sommer 2023 mit der Idee, aus weiter fortgeschrittenen Technik-und-Gesellschaft-Auseinandersetzungen die richtigen Fragen zu entwickeln und dann weiter zu sehen. """,
