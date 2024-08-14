@@ -551,6 +551,11 @@ Wir konzipieren Seminar im Sommer 2023 mit der Idee, aus weiter fortgeschrittene
     },
     {
         "date"  : "Sommersemester 2024",
+        "title" : "Gründung KriWi-Bündnis",
+        "text"  : """""",
+    },
+    {
+        "date"  : "Sommersemester 2024",
         "title" : "P&E goes MathNat?",
         "text"  : """Griesbeck will MathNat & Ethik (nicht als Seminar, aber als Idee) auf Fakultätsebende und bittet uns um Mitarbeit, wie man sowas anfangen kann.""",
     },
